@@ -4,7 +4,7 @@ tasks:
   build:
     cmds:
       - echo "Copying Window Theme..."
-      - cp ./vendor/WhiteSur-Light.tar.xz -C ./src/flavor/xfce/files/forte_temp/
+      - cp ./vendor/WhiteSur-Light.tar.xz ./src/flavor/xfce/files/forte_temp/
       - sudo nobuild build {{.CLI_ARGS}}
       - rm ./vendor/WhiteSur-Light.tar.xz
   clean:
