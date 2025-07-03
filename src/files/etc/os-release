@@ -1,9 +1,9 @@
-PRETTY_NAME="Forte 25.06-beta.1"
+PRETTY_NAME="Forte R1-beta1"
 NAME="Debian GNU/Linux"
 VERSION_ID="12"
 VERSION="12 (bookworm)"
 VERSION_CODENAME=bookworm
 ID=debian
-HOME_URL="https://forteos.github.io/"
-SUPPORT_URL="https://github.com/orgs/forteos/discussions"
-BUG_REPORT_URL="https://github.com/forteos/forte/issues"
+HOME_URL="https://forte.qzz.io/"
+SUPPORT_URL="https://github.com/orgs/forte-linux/discussions"
+BUG_REPORT_URL="https://github.com/forte-linux/forte/issues"

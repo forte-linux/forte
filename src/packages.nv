@@ -1,11 +1,4 @@
-# FolteOS package list
-
-# --- desktop experience ---
-xfce4
-xfce4-terminal
-xfce4-power-manager
-xfce4-whiskermenu-plugin
-mousepad
+# Folte package list
 
 # --- utility ---
 firefox-esr
